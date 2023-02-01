@@ -1,0 +1,13 @@
+{
+  "name": "com.kirillvorotov.unitylogging",
+  "version": "1.0.0",
+  "displayName": "kv.UnityLogging",
+  "description": "",
+  "unity": "2021.3",
+  "dependencies": {},
+  "author": {
+    "name": "Kirill Vorotov",
+    "email": "k.vorotov@gmail.com",
+    "url": "https://www.kirillvorotov.com"
+  }
+}
